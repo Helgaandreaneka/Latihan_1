@@ -1,2 +1,8 @@
 # Latihan_1
-Repo ini digunakan untuk latihan Pemograman Web
+** Deskripsi asli **
+Repo ini digunakan untuk latihan Pemrograman Web.
+
+** Deskripsi tambahan **
+Branch Feature berikut digunakan untuk membuat salinan dari Main.
+
+** End **
